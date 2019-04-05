@@ -1,23 +1,16 @@
 [
-   {
+  {
     "uid": "TPS01",
-    "updateDate": "2019-03-20T00:00:00.0Z",
+    "updateDate": "2019-04-04T00:00:00.0Z",
     "titleText": "Subscribe to our new podcast",
     "mainText": "Our new podcast Talking Point is available now. Episode 1 is about T.P.S. Connects. Craig Winter, Aileen Reid and Craig Mackenzie discuss the origins and development of T.P.S. connects, a community of people that have used Turning Point Scotland’s services. Search for Talking Point on your favourite podcast distributor.",
     "redirectionUrl": "http://www.turningpointscotland.com/news/brand-new-turning-point-scotland-podcast-launched/"
   },
   {
-   "uid": "TPS02",
-   "updateDate": "2019-03-18T00:00:00.0Z",
-   "titleText": "Make it Happen Awards",
-   "mainText": "Do you use one of Turning Point Scotland’s services and want to try a new activity, hobby or receive training that might go towards a volunteering or employment opportunity? Make It Happen could help you. T.P.S. provides small grants of money to go towards activities that might enhance your life or assist with sustaining recovery. Funding is maintained through donations and contributions and hundreds of applicants have been awarded amounts, typically up to a few hundred pounds to go towards their chosen project. Some of the things people have been awarded money for recently include: a counselling course, an overnight trip and tickets to see Macbeth, and a football kit for a family supported by one of our services. To find out more about Make it Happen, contact a staff member in your service or Aileen Reid at head office.",
-   "redirectionUrl": "http://www.turningpointscotland.com/be-involved/make-it-happen/"
- },
- {
-  "uid": "TPS03",
-  "updateDate": "2019-03-16T00:00:00.0Z",
-  "titleText": "What is TPS Connects?",
-  "mainText": "T.P.S. Connects was created to give people a purpose and fulfilment beyond receiving support. Being part of something and meeting people can have a positive impact on health and well-being and it reduces loneliness and isolation. It provides a safe and welcoming environment, to help people feel involved, included, and to have their voice heard. Our new explainer video talks about the group and what it does. Find it on the Turning Point Scotland webpage and YouTube page.",
-  "redirectionUrl": "http://www.turningpointscotland.com/news/tps-connects-video-explainer/"
- }
+    "uid": "TPS02",
+    "updateDate": "2019-04-03T00:00:00.0Z",
+    "titleText": "What is TPS Connects?",
+    "mainText": "T.P.S. Connects was created to give people a purpose and fulfilment beyond receiving support. Being part of something and meeting people can have a positive impact on health and well-being and it reduces loneliness and isolation. It provides a safe and welcoming environment, to help people feel involved, included, and to have their voice heard. Our new explainer video talks about the group and what it does. Find it on the Turning Point Scotland webpage and YouTube page.",
+    "redirectionUrl": "http://www.turningpointscotland.com/news/tps-connects-video-explainer/"
+  }
 ]
