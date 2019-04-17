@@ -1,8 +1,15 @@
-[ {
+[{
+  "uid": "TPS01",
+  "updateDate": "2019-04-17T00:00:00.0Z",
+  "titleText": "Supporting local communities",
+  "mainText": "Congratulations to staff and people being supported by our Dumfries and Galloway service for raising money to buy a Dermlite machine for Castle Douglas Health Centre. This machine will allow GPs to diagnose melanoma and other skin cancers at a surgery appointment. Having this service locally means that people won't have to travel into Dumfries for initial diagnosis, reducing the distance and logistics of travelling.",
+  "http://www.turningpointscotland.com/news/dumfries-galloway-service-raise-cash-to-fight-skin-cancer/"
+},
+{
   "uid": "TPS02",
   "updateDate": "2019-04-11T00:00:00.0Z",
   "titleText": "TPS Connects surpasses 300 members",
-  "mainText": "T.P.S. Connects is a community of people that have used Turning Point Scotland's services. It was set up to give people a chance to socialise, activley participate in planning activities and events, and to have their voices heard. Anyone that has used our services can can take part and enjoy a range of conferences, events, sport and music groups in a safe and welcoming environment. This year, T.P.S. Connects surpassed 300 members. To highlight the work of T.P.S. Connects, we've created a short animated video and a podcast discussing the group. Go to our youtube page to watch the video or search for Talking Points wherever you get your podcasts to find out more.",
+  "mainText": "T.P.S. Connects is a community of people that have used Turning Point Scotland's services. It was set up to give people a chance to socialise, actively participate in planning activities and events, and to have their voices heard. Anyone that has used our services can can take part and enjoy a range of conferences, events, sport and music groups in a safe and welcoming environment. This year, T.P.S. Connects surpassed 300 members. To highlight the work of T.P.S. Connects, we've created a short animated video and a podcast discussing the group. Go to our youtube page to watch the video or search for Talking Points wherever you get your podcasts to find out more.",
   "http://www.turningpointscotland.com/news/major-milestone-for-tps-connects/"
 },
   {
