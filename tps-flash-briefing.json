@@ -1,6 +1,13 @@
 [
   {
-    "uid": "TPS0042401",
+    "uid": "TPS042601",
+    "updateDate": "2019-04-26T01:00:00.0Z",
+    "titleText": "Happy retirement!",
+    "mainText": "We want to wish a very happy retirement to Director of Operations Wendy Spencer. Wendy has devoted 20 years to Turning Point Scotland and the social care sector. On behalf of all staff and people we support, 'Don't be sad it is over, we are all just very grateful it happened.'",
+    "redirectionUrl": "http://www.turningpointscotland.com/"
+  },
+  {
+    "uid": "TPS042401",
     "updateDate": "2019-04-24T01:00:00.0Z",
     "titleText": "Ramping up - Housing First Scotland Annual Conference 2019",
     "mainText": "Our very own Patrick McKay will be speaking at the Housing First Annual conference on 22nd May. Held at the Edinburgh International Conference Centre, this 'Ramping Up' event will look at the Housing First approach and what this means for homelessness in Scotland. Patrick will be discussing the seven principles that underpin Housing First and contribute to its success. The session will be a mastercalss for those already delivering Housing First, or those new to it. Join us and a host of other speakers at the Housing First Annual Conference, 2019.",
