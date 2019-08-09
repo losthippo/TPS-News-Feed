@@ -1,8 +1,0 @@
- The cleaning process ran as follows: 
-
-    Unable to clean any data.
-
-
-    Had to skip the following cleaning processes: Individuals, Referrals, Presenting issues, Closures, Activities, Employability position, Employability evaluations, Outcomes, Active statuses, Referrals - additional columns. These data are either not relevant for the service or the files are misnamed.
-
-    
