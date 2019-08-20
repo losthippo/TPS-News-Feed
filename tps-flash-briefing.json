@@ -1,13 +1,20 @@
 [
   {
-  "uid": "TPS00816",
+  "uid": "TPS0816",
+  "updateDate": "2019-08-20T01:00:00.0Z",
+  "titleText": "A warm welcome to new colleagues",
+  "mainText": "Turning Point Scotland is delighted to welcome our new colleagues from the North Ayrshire P.E.A.R. service. Staff are in head office today to kickstart their induction for this new prevention, early intervention and recovery service.",
+  "redirectionUrl": "http://www.turningpointscotland.com"
+  },
+  {
+  "uid": "TPS0816",
   "updateDate": "2019-08-16T01:00:00.0Z",
   "titleText": "Calling on anyone who has used our services!",
   "mainText": "Calling on anyone who has used our services! Do you want to give back to your community? Volunteering could be your way to do this. Head to our TPS Connects open day and find out how to get involved. It's on Friday, 23rd August between 11am and 4pm at our offices at 54 Govan Road, Glasgow. ",
   "redirectionUrl": "https://pbs.twimg.com/media/EB7319dW4AIjXlL?format=jpg&name=4096x4096"
   },
   {
-  "uid": "TPS00813",
+  "uid": "TPS0813",
   "updateDate": "2019-08-13T01:00:00.0Z",
   "titleText": "Time for a change?",
   "mainText": "We're currently recruiting for 25 posts around Scotland. If you're looking for a change, check out our recruitment portal. Go to www.turningpointscotland.com to find out more.",
