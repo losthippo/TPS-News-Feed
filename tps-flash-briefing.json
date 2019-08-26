@@ -1,53 +1,36 @@
-[
-  {
-  "uid": "TPS0823",
-  "updateDate": "2019-08-23T01:00:00.0Z",
-  "titleText": "TPS Connects Open Day",
-  "mainText": "We are delighted to be hosting an open day for TPS Connects today. Come to our offices on Govan Road, Glasgow, to learn more about TPS Connects and enjoy barbeque, face painting and more fun activities. We also extend our warmest congratulations to the students completing our Connecting Citizens programme. Their graduation ceremony is being held between 1pm and 2pm and we'd be delighted if you celebrate with us.",
-  "redirectionUrl": "http://www.turningpointscotland.com"
-  },
-  {
-  "uid": "TPS0816",
-  "updateDate": "2019-08-20T01:00:00.0Z",
-  "titleText": "A warm welcome to new colleagues",
-  "mainText": "Turning Point Scotland is delighted to welcome our new colleagues from the North Ayrshire P.E.A.R. service. Staff are in head office today to kickstart their induction for this new prevention, early intervention and recovery service.",
-  "redirectionUrl": "http://www.turningpointscotland.com"
-  },
-  {
-  "uid": "TPS0816",
-  "updateDate": "2019-08-16T01:00:00.0Z",
-  "titleText": "Calling on anyone who has used our services!",
-  "mainText": "Calling on anyone who has used our services! Do you want to give back to your community? Volunteering could be your way to do this. Head to our TPS Connects open day and find out how to get involved. It's on Friday, 23rd August between 11am and 4pm at our offices at 54 Govan Road, Glasgow. ",
-  "redirectionUrl": "https://pbs.twimg.com/media/EB7319dW4AIjXlL?format=jpg&name=4096x4096"
-  },
-  {
-  "uid": "TPS0813",
-  "updateDate": "2019-08-13T01:00:00.0Z",
-  "titleText": "Time for a change?",
-  "mainText": "We're currently recruiting for 25 posts around Scotland. If you're looking for a change, check out our recruitment portal. Go to www.turningpointscotland.com to find out more.",
-  "redirectionUrl": "https://turningpointscotland.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-2/candidate/jobboard/vacancy/1/adv/"
-  },
-  {
-  "uid": "TPS0805",
-  "updateDate": "2019-08-05T01:00:00.0Z",
-  "titleText": "Take a trip down memory lane",
-  "mainText": "Like Marty McFly, you can now get back in time to see how T.P.S have grown, developed, and evolved since 1999. We've been raking through the archives and have created a timeline of the organisation's achivements as part of our 20th anniversary celebrations. You can add your own memories, thoughts and comments too! Visit www.turningpointscotland.com/timeline to take part.",
-  "redirectionUrl": "http://www.turningpointscotland.com/timeline/"
-  },
-  {
-  "uid": "TPS0731",
-  "updateDate": "2019-07-31T01:00:00.0Z",
-  "titleText": "Subscribe on Spotify",
-  "mainText": "The Turning Point Scotland podcast 'Talking Point' is now available on Spotify. Subscribe for conversations on the latest issus affecting social care including homelessness, drugs and alchol, the justice system and learning disabilities.",
-  "redirectionUrl": "https://open.spotify.com/show/4Qk0uBC8zCtyHQkaF6nT4h?si=v3dLBd8oT72RKh11cflg7g"
-  },
-  {
-  "uid": "TPS0726",
-  "updateDate": "2019-07-26T01:00:00.0Z",
-  "titleText": "Happy 20th Anniversary!",
-  "mainText": "Congratulations to our Connecting Citizens students, Hannah, Kevin, Maria, Mick, Natasha and Sammy. The group have their photography work on display at The Mitchell Library in Glasgow and have co-curated an exhibition with the Open Museum.
-  The group decided to tackle a subject that is close to their hearts, saying, ‘We had the whole of Glasgow Museums collections at our fingertips – we could have chosen anything from art to ancient Egypt, but we wanted to focus on something contemporary and relevant – something we all had experience of. We started by looking at objects related to poverty in the Glasgow Museums collection. We discovered that they were not up to date. Does poverty in still exist in Glasgow? Look around and you will see it does. We also looked at photographs in the collections and that gave us the idea to go out into our communities and take our own.'
-  Elaine Addington, Open Museum Curator, Glasgow Museums said, ‘People should go see the display firstly because the photographs are brilliant and an absolute credit to the students who took part. Also they will be images that probably resonate with the viewers own experiences of Glasgow, but will hopefully make them question their willingness to accept this as the norm.",
-  "redirectionUrl": "http://www.turningpointscotland.com/new-photography-exhibition-challenges-perceptions-of-poverty/"
-  }
+[{
+		"uid": "TPS0823",
+		"updateDate": "2019-08-23T01:00:00.0Z",
+		"titleText": "TPS Connects Open Day",
+		"mainText": "We are delighted to be hosting an open day for TPS Connects today. Come to our offices on Govan Road, Glasgow, to learn more about TPS Connects and enjoy barbeque, face painting and more fun activities. We also extend our warmest congratulations to the students completing our Connecting Citizens programme. Their graduation ceremony is being held between 1pm and 2pm and we'd be delighted if you celebrate with us.",
+		"redirectionUrl": "http://www.turningpointscotland.com"
+	},
+	{
+		"uid": "TPS0816",
+		"updateDate": "2019-08-20T01:00:00.0Z",
+		"titleText": "A warm welcome to new colleagues",
+		"mainText": "Turning Point Scotland is delighted to welcome our new colleagues from the North Ayrshire P.E.A.R. service. Staff are in head office today to kickstart their induction for this new prevention, early intervention and recovery service.",
+		"redirectionUrl": "http://www.turningpointscotland.com"
+	},
+	{
+		"uid": "TPS0816",
+		"updateDate": "2019-08-16T01:00:00.0Z",
+		"titleText": "Calling on anyone who has used our services!",
+		"mainText": "Calling on anyone who has used our services! Do you want to give back to your community? Volunteering could be your way to do this. Head to our TPS Connects open day and find out how to get involved. It's on Friday, 23rd August between 11am and 4pm at our offices at 54 Govan Road, Glasgow. ",
+		"redirectionUrl": "https://pbs.twimg.com/media/EB7319dW4AIjXlL?format=jpg&name=4096x4096"
+	},
+	{
+		"uid": "TPS0813",
+		"updateDate": "2019-08-13T01:00:00.0Z",
+		"titleText": "Time for a change?",
+		"mainText": "We're currently recruiting for 25 posts around Scotland. If you're looking for a change, check out our recruitment portal. Go to www.turningpointscotland.com to find out more.",
+		"redirectionUrl": "https://turningpointscotland.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-2/candidate/jobboard/vacancy/1/adv/"
+	},
+	{
+		"uid": "TPS0805",
+		"updateDate": "2019-08-05T01:00:00.0Z",
+		"titleText": "Take a trip down memory lane",
+		"mainText": "Like Marty McFly, you can now get back in time to see how T.P.S have grown, developed, and evolved since 1999. We've been raking through the archives and have created a timeline of the organisation's achivements as part of our 20th anniversary celebrations. You can add your own memories, thoughts and comments too! Visit www.turningpointscotland.com/timeline to take part.",
+		"redirectionUrl": "http://www.turningpointscotland.com/timeline/"
+	}
 ]
