@@ -1,29 +1,16 @@
-[{
-		"uid": "TPS0823",
-		"updateDate": "2019-08-23T01:00:00.0Z",
-		"titleText": "TPS Connects Open Day",
-		"mainText": "We are delighted to be hosting an open day for TPS Connects today. Come to our offices on Govan Road, Glasgow, to learn more about TPS Connects and enjoy barbeque, face painting and more fun activities. We also extend our warmest congratulations to the students completing our Connecting Citizens programme. Their graduation ceremony is being held between 1pm and 2pm and we'd be delighted if you celebrate with us.",
-		"redirectionUrl": "http://www.turningpointscotland.com"
+[
+	{
+	  "uid": "TPS0826",
+	  "updateDate": "2019-08-26T01:00:00.0Z",
+	  "titleText": "Open day update",
+	  "mainText": "Thank you to everyone who supported our T.P.S. Connects open day on Friday the 23rd of August. We had 118 people signing in so it was an excellent attendance. There was a really good atmosphere on the day with lots of people saying that they enjoyed it and would like to be more involved with T.P.S. Connects in the future, so it seems that the day was a success. Thank you to everyone who helped out on the day.",
+	  "redirectionUrl": "http://www.turningpointscotland.com"
 	},
 	{
-		"uid": "TPS0816",
-		"updateDate": "2019-08-20T01:00:00.0Z",
-		"titleText": "A warm welcome to new colleagues",
-		"mainText": "Turning Point Scotland is delighted to welcome our new colleagues from the North Ayrshire P.E.A.R. service. Staff are in head office today to kickstart their induction for this new prevention, early intervention and recovery service.",
-		"redirectionUrl": "http://www.turningpointscotland.com"
-	},
-	{
-		"uid": "TPS0816",
-		"updateDate": "2019-08-16T01:00:00.0Z",
-		"titleText": "Calling on anyone who has used our services!",
-		"mainText": "Calling on anyone who has used our services! Do you want to give back to your community? Volunteering could be your way to do this. Head to our TPS Connects open day and find out how to get involved. It's on Friday, 23rd August between 11am and 4pm at our offices at 54 Govan Road, Glasgow. ",
-		"redirectionUrl": "https://pbs.twimg.com/media/EB7319dW4AIjXlL?format=jpg&name=4096x4096"
-	},
-	{
-		"uid": "TPS0813",
-		"updateDate": "2019-08-13T01:00:00.0Z",
+		"uid": "TPS0825",
+		"updateDate": "2019-08-25T01:00:00.0Z",
 		"titleText": "Time for a change?",
-		"mainText": "We're currently recruiting for 25 posts around Scotland. If you're looking for a change, check out our recruitment portal. Go to www.turningpointscotland.com to find out more.",
+		"mainText": "We're currently recruiting for 28 posts around Scotland. If you're looking for a change, check out our recruitment portal. Go to www.turningpointscotland.com to find out more.",
 		"redirectionUrl": "https://turningpointscotland.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-2/candidate/jobboard/vacancy/1/adv/"
 	},
 	{
