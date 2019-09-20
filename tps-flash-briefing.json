@@ -1,23 +1,9 @@
 [
 	{
 		"uid": "TPS0906",
-		"updateDate": "2019-09-06T01:00:00.0Z",
+		"updateDate": "2019-09-20T01:00:00.0Z",
 		"titleText": "Time for a change?",
-		"mainText": "We're currently recruiting for 23 posts around Scotland. If you're looking for a change, check out our recruitment portal. Go to www.turningpointscotland.com to find out more.",
+		"mainText": "We're currently recruiting for 31 posts around Scotland. If you're looking for a change, check out our recruitment portal. Go to www.turningpointscotland.com to find out more.",
 		"redirectionUrl": "https://turningpointscotland.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-2/candidate/jobboard/vacancy/1/adv/"
-	},
-	{
-	  "uid": "TPS0826",
-	  "updateDate": "2019-08-26T01:00:00.0Z",
-	  "titleText": "Open day update",
-	  "mainText": "Thank you to everyone who supported our T.P.S. Connects open day on Friday the 23rd of August. We had 118 people signing in so it was an excellent attendance. There was a really good atmosphere on the day with lots of people saying that they enjoyed it and would like to be more involved with T.P.S. Connects in the future, so it seems that the day was a success. Thank you to everyone who helped out on the day.",
-	  "redirectionUrl": "http://www.turningpointscotland.com"
-	},
-	{
-		"uid": "TPS0805",
-		"updateDate": "2019-08-05T01:00:00.0Z",
-		"titleText": "Take a trip down memory lane",
-		"mainText": "Like Marty McFly, you can now get back in time to see how T.P.S have grown, developed, and evolved since 1999. We've been raking through the archives and have created a timeline of the organisation's achivements as part of our 20th anniversary celebrations. You can add your own memories, thoughts and comments too! Visit www.turningpointscotland.com/timeline to take part.",
-		"redirectionUrl": "http://www.turningpointscotland.com/timeline/"
 	}
 ]
