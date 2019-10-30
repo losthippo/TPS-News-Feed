@@ -1,5 +1,12 @@
 [
 	{
+		"uid": "TPS1030",
+		"updateDate": "2019-10-30T01:00:00.0Z",
+		"titleText": "New service in Ayrshire",
+		"mainText": "Welcome to one of our newest services North Ayrshire Prevention, Early intervention And Recovery (PEAR) Service is a drug and alcohol support service based in Stevenston. You can contact the service for support if you live in North Ayrshire.",
+		"redirectionUrl": "http://www.turningpointscotland.com/north-ayrshire-pear/"
+	},
+	{
 	  "uid": "TPS1014",
 	  "updateDate": "2019-10-14T01:00:00.0Z",
 	  "titleText": "End street homelessness",
