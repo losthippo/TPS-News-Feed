@@ -1,5 +1,12 @@
 [
 	{
+		"uid": "TPS1204",
+		"updateDate": "2019-12-04T01:00:00.0Z",
+		"titleText": "Make it Happen!",
+		"mainText": "At the recent Make It Happen committee meeting, 15 awards were approved including: Train fare for a woman from Edinburgh to visit family in Cardiff; Studio time for a man from Glasgow Supported Living to make recordings of his songs; A group application for day trips for the Something for the Weekend group in Edinburgh. To find out more about Make It Happen including who and how to apply, visit our website",
+		"redirectionUrl": "http://www.turningpointscotland.com/be-involved/make-it-happen/"
+	},
+	{
 		"uid": "TPS11105",
 		"updateDate": "2019-11-05T01:00:00.0Z",
 		"titleText": "Annual report",
