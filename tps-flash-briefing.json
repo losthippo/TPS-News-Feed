@@ -1,5 +1,12 @@
 [
 	{
+		"uid": "TPS200113",
+		"updateDate": "2020-01-13T01:00:00.0Z",
+		"titleText": "Fancy a change?",
+		"mainText": "We're recruiting for 38 posts around Scotland. If you're looking to start the year a little differently, take a look at the jobs we've posted on our website: www.turningpointscotland.com",
+		"redirectionUrl": "https://turningpointscotland.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-2/candidate/jobboard/vacancy/1/adv/"
+	},
+	{
 		"uid": "TPS1204",
 		"updateDate": "2019-12-04T01:00:00.0Z",
 		"titleText": "Make it Happen!",
@@ -12,40 +19,5 @@
 		"titleText": "Annual report",
 		"mainText": "Our latest annual report is available. Visit www.turningpointscotland.com to download a copy.",
 		"redirectionUrl": "http://www.turningpointscotland.com/latest-annual-report-available/"
-	},
-	{
-		"uid": "TPS1030",
-		"updateDate": "2019-10-30T01:00:00.0Z",
-		"titleText": "New service in Ayrshire",
-		"mainText": "Welcome to one of our newest services North Ayrshire Prevention, Early intervention And Recovery (PEAR) Service is a drug and alcohol support service based in Stevenston. You can contact the service for support if you live in North Ayrshire.",
-		"redirectionUrl": "http://www.turningpointscotland.com/north-ayrshire-pear/"
-	},
-	{
-	  "uid": "TPS1014",
-	  "updateDate": "2019-10-14T01:00:00.0Z",
-	  "titleText": "End street homelessness",
-	  "mainText": "Did you know that T.P.S. is part of a network of organisations and European cities working with World Habitat to end street homelessess? To find out more about the campaign, search for World Habitat's short film 'The European End Street Homelessness Campaign' on Youtube.",
-		"redirectionUrl": "https://youtu.be/Bcq0yfmjRYk"
-	},
-	{
-	  "uid": "TPS1002",
-	  "updateDate": "2019-10-02T01:00:00.0Z",
-	  "titleText": "Views on Scottish Government's justice spending priorities",
-	  "mainText": "T.P.S. recently provided evidence to the Scottish Government's justice committee which was scrutinising the draft budget. Policy Officer, Faye, wanted to raise three particular points: that investment needs to be rebalanced; that we need to make better connections; and that the third sector are an asset to the criminal justice system. To read more about these three points you can read our full submission on www.turningpointscotland.com, and follow Faye on twitter at T.P.S. Policy. ",
-	  "redirectionUrl": "http://www.turningpointscotland.com/turning-point-scotlands-views-on-justice-spending-priorities/"
-	},
-	{
-		"uid": "TPS0915",
-		"updateDate": "2019-09-25T01:00:00.0Z",
-		"titleText": "Thanks to our board members",
-		"mainText": "We would like to extend our warmest thanks to Dorothy McElroy who completed her stint as Chair of T.P.S. last night, and also to Sheila Fazal who stood down from our board of directors. Thank you both for all your hard work.",
-		"redirectionUrl": "http://www.turningpointscotland.com/about-us/our-people/board-of-directors/"
-	},
-	{
-		"uid": "TPS0906",
-		"updateDate": "2019-09-20T01:00:00.0Z",
-		"titleText": "Time for a change?",
-		"mainText": "We're currently recruiting for 31 posts around Scotland. If you're looking for a change, check out our recruitment portal. Go to www.turningpointscotland.com to find out more.",
-		"redirectionUrl": "https://turningpointscotland.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-2/candidate/jobboard/vacancy/1/adv/"
 	}
 ]
